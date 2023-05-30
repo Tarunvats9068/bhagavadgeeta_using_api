@@ -1,0 +1,15 @@
+.main
+{
+    align-items: center;
+    align-content: center;
+    padding: 20px;
+}
+.inner_class
+{
+    height : auto;
+    background-color: whitesmoke;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+     overflow-wrap: normal;
+}
